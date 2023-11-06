@@ -158,8 +158,13 @@ p em {
     color: #212529;
 }
 
+/* 
 .dropdownItem::after {
     background-image: url(Images/drop-down-solid-16.png);
-    content: url(Images/drop-down-solid-16.png);
-    background-size: 20px 20px;
+    content: url(Images/pngwing.com.png);
+    background-size: 2px 2px;
+} */
+
+.dropdownItem img {
+    width: 10px;
 }
